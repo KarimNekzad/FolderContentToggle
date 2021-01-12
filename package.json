@@ -1,7 +1,7 @@
 {
   "name": "folder-contents-toggle",
   "version": "0.1.0",
-  "homepage": "http://KarimNekzad.github.io/FolderContentsToggle",
+  "homepage": "http://KarimNekzad.github.io/FolderContentToggle",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.8",
